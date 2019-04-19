@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="286017f0-f573-4ff0-ab61-4b7e11d8eddb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="540">
+                <caret line="36" selection-start-line="36" selection-end-line="36" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rocketmq/bin/start.sh">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis-rabbitmq/bin/start.sh">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rocketmq/compose/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rocketmq/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="360">
+                <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wordpress-mysql/bin/start.sh">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wordpress-mysql/compose/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kafka-zk/compose/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis-rabbitmq/compose/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/redis-rabbitmq/redis/file">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="9" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>plugin</find>
+      <find>es-node-1</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>elasticsearch</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/redis-rabbitmq/bin/start.sh" />
+        <option value="$PROJECT_DIR$/redis-rabbitmq/redis/file" />
+        <option value="$PROJECT_DIR$/redis-rabbitmq/rabbitmq/file" />
+        <option value="$PROJECT_DIR$/redis-rabbitmq/README.md" />
+        <option value="$PROJECT_DIR$/docker-compose-install/README.md" />
+        <option value="$PROJECT_DIR$/kafka-zk/compose/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/kafka-zk/README.md" />
+        <option value="$PROJECT_DIR$/es-logstash/compose/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/elasticsearch/es-node-2/jvm.options" />
+        <option value="$PROJECT_DIR$/elasticsearch/es-node-3/jvm.options" />
+        <option value="$PROJECT_DIR$/elasticsearch/es-node-1/jvm.options" />
+        <option value="$PROJECT_DIR$/elasticsearch/es-node-2/elasticsearch.yml" />
+        <option value="$PROJECT_DIR$/elasticsearch/es-node-1/elasticsearch.yml" />
+        <option value="$PROJECT_DIR$/elasticsearch/es-node-3/elasticsearch.yml" />
+        <option value="$PROJECT_DIR$/elasticsearch/compose/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/es-cluster/es-node-1/jvm.options" />
+        <option value="$PROJECT_DIR$/es-cluster/es-node-2/jvm.options" />
+        <option value="$PROJECT_DIR$/es-cluster/es-node-3/jvm.options" />
+        <option value="$PROJECT_DIR$/es-cluster/es-node-1/elasticsearch.yml" />
+        <option value="$PROJECT_DIR$/es-cluster/es-node-2/elasticsearch.yml" />
+        <option value="$PROJECT_DIR$/es-cluster/es-node-3/elasticsearch.yml" />
+        <option value="$PROJECT_DIR$/es-cluster/compose/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/es-cluster/elasticsearch/elasticsearch.yml" />
+        <option value="$PROJECT_DIR$/es-cluster/kibana/kibana.yml" />
+        <option value="$PROJECT_DIR$/es-kibana/elasticsearch/jvm.options" />
+        <option value="$PROJECT_DIR$/sample-01/es-node-1/jvm.options" />
+        <option value="$PROJECT_DIR$/sample-01/es-node-2/jvm.options" />
+        <option value="$PROJECT_DIR$/sample-01/es-node-3/jvm.options" />
+        <option value="$PROJECT_DIR$/sample-01/compose/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/sample-01/es-node-1/elasticsearch.yml" />
+        <option value="$PROJECT_DIR$/es-kibana/kibana/kibana.yml" />
+        <option value="$PROJECT_DIR$/docker-install/README.md" />
+        <option value="$PROJECT_DIR$/es-kibana/compose/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/es-kibana/README.md" />
+        <option value="$PROJECT_DIR$/mongo/compose/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/mongo/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/rocketmq/rocketmq/broker/conf/broker.conf" />
+        <option value="$PROJECT_DIR$/rocketmq/rmq/brokerconf/broker.conf" />
+        <option value="$PROJECT_DIR$/rocketmq/compose/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/rocketmq/README.md" />
+        <option value="$PROJECT_DIR$/wordpress-mysql/compose/docker-compose.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="731" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="docker_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker_learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docker_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-rabbitmq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docker_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docker_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="rocketmq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docker_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="rocketmq" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docker_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="rocketmq" type="462c0819:PsiDirectoryNode" />
+              <item name="compose" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554206142918" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/elasticsearch/node2/conf" />
+      <recent name="$PROJECT_DIR$/elasticsearch/node1/conf" />
+      <recent name="$PROJECT_DIR$/elasticsearch/node1/data" />
+      <recent name="$PROJECT_DIR$/elasticsearch/master/conf" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wordpress-mysql" />
+      <recent name="$PROJECT_DIR$/rocketmq" />
+      <recent name="$PROJECT_DIR$/rocketmq/compose" />
+      <recent name="$PROJECT_DIR$/rocketmq/rocketmq/namesrv" />
+      <recent name="$PROJECT_DIR$/rocketmq/rocketmq/broker" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="286017f0-f573-4ff0-ab61-4b7e11d8eddb" name="Default Changelist" comment="" />
+      <created>1553428889909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553428889909</updated>
+      <workItem from="1553428892089" duration="205000" />
+      <workItem from="1554098751164" duration="498000" />
+      <workItem from="1554099463396" duration="2038000" />
+      <workItem from="1554104160725" duration="2331000" />
+      <workItem from="1554107894869" duration="17767000" />
+      <workItem from="1554188023663" duration="2325000" />
+      <workItem from="1554202852144" duration="2756000" />
+      <workItem from="1554255837535" duration="1936000" />
+      <workItem from="1554259817599" duration="2450000" />
+      <workItem from="1554262543049" duration="442000" />
+      <workItem from="1554280341713" duration="8450000" />
+      <workItem from="1554373190792" duration="2206000" />
+      <workItem from="1554882226359" duration="614000" />
+      <workItem from="1555668273780" duration="861000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1553428920757</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553428920757</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add init file">
+      <created>1554098956166</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554098956166</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add sh">
+      <created>1554099999263</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554099999263</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add md">
+      <created>1554100290432</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554100290432</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add md">
+      <created>1554100320948</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554100320948</updated>
+    </task>
+    <task id="LOCAL-00006" summary="modify">
+      <created>1554100477637</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554100477637</updated>
+    </task>
+    <task id="LOCAL-00007" summary="modify">
+      <created>1554100738362</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1554100738362</updated>
+    </task>
+    <task id="LOCAL-00008" summary="modify">
+      <created>1554100766837</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1554100766837</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add md">
+      <created>1554101568406</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1554101568406</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add kafka-zk">
+      <created>1554106429965</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1554106429965</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add md">
+      <created>1554106475919</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1554106475919</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add es-kibana">
+      <created>1554187661036</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1554187661036</updated>
+    </task>
+    <task id="LOCAL-00013" summary="modify">
+      <created>1554204250308</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1554204250308</updated>
+    </task>
+    <task id="LOCAL-00014" summary="modify">
+      <created>1554206018776</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1554206018776</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add md">
+      <created>1554256046247</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1554256046247</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add mongo">
+      <created>1554260573405</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1554260573405</updated>
+    </task>
+    <task id="LOCAL-00017" summary="init">
+      <created>1554260984773</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1554260984773</updated>
+    </task>
+    <task id="LOCAL-00018" summary="modify">
+      <created>1554261073613</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1554261073613</updated>
+    </task>
+    <task id="LOCAL-00019" summary="modify md">
+      <created>1554261888245</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1554261888245</updated>
+    </task>
+    <task id="LOCAL-00020" summary="modify md">
+      <created>1554290747976</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1554290747976</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add wordpress-mysql">
+      <created>1554374695952</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1554374695952</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="44879000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="731" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3114887" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32954547" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32954547" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Mybatis datasource" order="6" side_tool="true" />
+      <window_info anchor="right" id="BPMNPalette" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="add init file" />
+    <MESSAGE value="add sh" />
+    <MESSAGE value="add kafka-zk" />
+    <MESSAGE value="add es-kibana" />
+    <MESSAGE value="add md" />
+    <MESSAGE value="add mongo" />
+    <MESSAGE value="init" />
+    <MESSAGE value="modify" />
+    <MESSAGE value="modify md" />
+    <MESSAGE value="add wordpress-mysql" />
+    <option name="LAST_COMMIT_MESSAGE" value="add wordpress-mysql" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/elasticsearch/bin/start.sh" />
+    <entry file="file://$PROJECT_DIR$/elasticsearch/node1/log4j2.properties" />
+    <entry file="file://$PROJECT_DIR$/elasticsearch/node1/plugins/analysis-ik/plugin-descriptor.properties" />
+    <entry file="file://$PROJECT_DIR$/elasticsearch/node1/jvm.options" />
+    <entry file="file://$PROJECT_DIR$/elasticsearch/node2/jvm.options" />
+    <entry file="file://$PROJECT_DIR$/elasticsearch/node2/log4j2.properties" />
+    <entry file="file://$PROJECT_DIR$/elasticsearch/master/jvm.options" />
+    <entry file="file://$PROJECT_DIR$/elasticsearch/node1/data/elasticsearch.yml" />
+    <entry file="file://$PROJECT_DIR$/elasticsearch/master/conf/elasticsearch.yml" />
+    <entry file="file://$PROJECT_DIR$/elasticsearch/node2/elasticsearch.yml" />
+    <entry file="file://$PROJECT_DIR$/elasticsearch/compose/docker-compose.yml" />
+    <entry file="file://$PROJECT_DIR$/es-cluster/bin/compose" />
+    <entry file="file://$PROJECT_DIR$/es-cluster/es-node-3/jvm.options" />
+    <entry file="file://$PROJECT_DIR$/es-cluster/es-node-3/log4j2.properties" />
+    <entry file="file://$PROJECT_DIR$/es-cluster/es-node-2/jvm.options" />
+    <entry file="file://$PROJECT_DIR$/es-cluster/es-node-3/elasticsearch.yml" />
+    <entry file="file://$PROJECT_DIR$/es-cluster/es-node-2/elasticsearch.yml" />
+    <entry file="file://$PROJECT_DIR$/es-cluster/compose/docker-compose-bak.yml" />
+    <entry file="file://$PROJECT_DIR$/es-kibana/elasticsearch/plugins/analysis-ik/config/main.dic">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-01/bin/compose" />
+    <entry file="file://$PROJECT_DIR$/sample-01/es-node-2/elasticsearch.yml" />
+    <entry file="file://$PROJECT_DIR$/sample-01/es-node-2/jvm.options" />
+    <entry file="file://$PROJECT_DIR$/sample-01/es-node-3/jvm.options" />
+    <entry file="file://$PROJECT_DIR$/es-kibana/elasticsearch/elasticsearch.yml" />
+    <entry file="file://$PROJECT_DIR$/es-kibana/elasticsearch/jvm.options" />
+    <entry file="file://$PROJECT_DIR$/es-kibana/elasticsearch/log4j2.properties" />
+    <entry file="file://$PROJECT_DIR$/es-kibana/kibana/kibana.yml" />
+    <entry file="file://$PROJECT_DIR$/docker-install/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="405">
+            <caret line="27" column="21" selection-start-line="27" selection-end-line="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es-kibana/bin/start.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es-kibana/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es-kibana/compose/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose-install/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="12" selection-start-line="14" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo/bin/start.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" selection-start-line="8" selection-end-line="25" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo/compose/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rocketmq/compose/rocketmq-namesrv/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/rocketmq/rocketmq/broker/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/rocketmq/rocketmq/namesrv/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/rocketmq/rocketmq/broker/conf/broker.conf" />
+    <entry file="file://$PROJECT_DIR$/rocketmq/rmq/brokerconf/broker.conf" />
+    <entry file="file://$PROJECT_DIR$/rocketmq/compose/rocketmq-broker/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="540">
+            <caret line="36" selection-start-line="36" selection-end-line="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rocketmq/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress-mysql/bin/start.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress-mysql/compose/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-zk/compose/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rocketmq/compose/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rocketmq/bin/start.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-rabbitmq/bin/start.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-rabbitmq/compose/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-rabbitmq/redis/file">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

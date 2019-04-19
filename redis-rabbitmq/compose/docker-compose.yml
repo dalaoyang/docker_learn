@@ -1,0 +1,35 @@
+version: "3"
+
+services:
+
+  redis:
+    image: redis:4.0
+    volumes:
+      - ../redis/redis.conf:/etc/redis/redis.conf:ro
+      - ../redis/data:/data
+    command:
+      - redis-server
+      - /etc/redis/redis.conf
+    ports:
+     - 6379:6379
+
+
+  rabbitmq:
+     image: rabbitmq:3.7.7-management
+     volumes:
+      - ../redis/redis.conf:/var/lib/rabbitmq
+      - ../redis/data:/data
+     container_name: rabbitmq
+     environment:
+       - RABBITMQ_DEFAULT_USER=admin
+       - RABBITMQ_DEFAULT_PASS=admin
+       - RABBITMQ_DEFAULT_VHOST=my_vhost
+     restart: always
+     ports:
+       - "15672:15672"
+       - "5672:5672"
+     logging:
+       driver: "json-file"
+       options:
+         max-size: "200k"
+         max-file: "10"
