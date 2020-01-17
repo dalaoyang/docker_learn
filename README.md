@@ -4,7 +4,8 @@
 
 
 
-[![Stargazers over time](https://starchart.cc/caarlos0/starcharts.svg)](https://starchart.cc/dalaoyang/docker_learn)
+[![Stargazers over time](https://starchart.cc/dalaoyang/docker_learn.svg)](https://starchart.cc/dalaoyang/docker_learn)
+
 
 #### 软件架构
 
