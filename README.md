@@ -15,6 +15,8 @@
 * kafka-zk：Kafka，Zookeeper安装教程
 * mongo：Mongo，Mongo-Express安装教程
 * redis-rabbitmq：Redis，RabbitMQ安装教程
+* rocketmq：RocketMQ安装教程
+* wordpress-mysql：WordPress，MySQL安装教程
 
 #### 安装教程
 
@@ -39,4 +41,3 @@ chmod 777 start.sh
 ```
 ./start.sh
 ```
-
